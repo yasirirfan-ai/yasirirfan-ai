@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 [![GitHub followers](https://img.shields.io/github/followers/yasirirfan-ai?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=00d9ff)](https://github.com/yasirirfan-ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)]([https://linkedin.com/in/yasir-irfan](https://pk.linkedin.com/in/yasir-irfan-b988721b7))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://pk.linkedin.com/in/yasir-irfan-b988721b7)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:yasir.irfan@example.com)
 
 </div>
